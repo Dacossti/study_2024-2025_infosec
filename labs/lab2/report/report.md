@@ -2,7 +2,7 @@
 ## Front matter
 title: "Лабораторная работа № 2"
 subtitle: "Дискреционное разграничение прав в Linux. Основные атрибуты"
-author: "Беличева Дарья Михайловна"
+author: "Стев Икнэль Дани Озьяс"
 
 ## Generic otions
 lang: ru-RU
